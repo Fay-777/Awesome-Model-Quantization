@@ -108,6 +108,21 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 **Keywords**: **`qnn`**: quantized neural networks | **`bnn`**: binarized neural networks | **`hardware`**: hardware deployment | **`snn`**: spiking neural networks | **`other`**
 
 ----
+### 2025
+#### Embodied
+- [[CoRR 2023](https://arxiv.org/pdf/2304.13705)] Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware
+- [[IEEE](https://arxiv.org/pdf/2309.01918)] RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking [[code](https://github.com/robopen/roboagent/)]
+- [[NeurIPS 2024](https://arxiv.org/pdf/2409.20537)] HTP: Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers [[code](https://github.com/liruiw/HPT)]
+- [[CoRL 2024](https://arxiv.org/abs/2406.10454)] HumanPlus: Humanoid Shadowing and Imitation from Humans [[code](https://github.com/MarkFzp/humanplus)]
+- [[CoRL 2023](https://arxiv.org/abs/2307.15818)] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
+- [[CoRL 2024](https://arxiv.org/pdf/2406.09246)] OpenVLA: An Open-Source Vision-Language-Action Model [[website](https://openvla.github.io/)] [[code](https://github.com/openvla/openvla)]
+- [[NeurIPS 2024](https://arxiv.org/abs/2408.15980)] In-Context Imitation Learning via Next-Token Prediction
+- [[CoRL 2024](https://arxiv.org/abs/2409.01652)] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[code](https://github.com/huangwl18/ReKep)]
+- [[CoRL 2024](https://arxiv.org/abs/2407.08693)] Robotic Control via Embodied Chain-of-Thought Reasoning [[code](https://github.com/MichalZawalski/embodied-CoT/)]
+- [[ICLR 2025](https://arxiv.org/abs/2410.07864)] RDT-1B: A Diffusion Foundation Model for Bimanual Manipulation [[code](https://github.com/thu-ml/RoboticsDiffusionTransformer)]
+- [[CoRR 2024](https://arxiv.org/abs/2411.19650)] CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[code](https://github.com/microsoft/CogACT)]
+- [[CoRR 2024](https://arxiv.org/abs/2410.24164)] A Vision-Language-Action Flow Model for General Robot Control
+
 
 ### 2024
 
